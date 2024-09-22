@@ -8,6 +8,6 @@ The SOLID principles are a set of five design principles in object-oriented prog
 1. I - Interface Segregation Principle (ISP)
 1. D - Dependency Inversion Principle (DIP)
 
-![SOLID Principle](.//Users/basmalakhaled/SOLID-Principle/SOLID.png)
+![SOLID Principle](./SOLID.png)
 
 These principles promote more flexible, scalable, and maintainable code, making it easier to handle future changes and extensions
